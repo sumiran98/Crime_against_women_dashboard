@@ -4,6 +4,10 @@ Welcome to the Crime Against Women Dashboard – a comprehensive tool designed t
 # Access Live App:
 Hosted: (https://sumiran98.shinyapps.io/Analytics-Dashboard-on-Statewise-Crime_against_Women/)
 
+##Sample:
+![image](https://github.com/sumiran98/Crime_against_women_dashboard/assets/63390824/60e843a5-e372-4c8e-b5ad-c78cd19bb440)
+
+
 # Credits: 
 Data: Kaggle (https://www.kaggle.com/datasets/martandsay/indian-women-rape-molestation-dataset)
 Code inspiration: Abhinav Aggarwal Youtube Channel (https://www.youtube.com/watch?v=tlOBVZx8Hy0)
